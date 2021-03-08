@@ -1,0 +1,8 @@
+class Cat
+end
+
+rixin = Cat.new
+harley = Cat.new
+
+rixin.object_id
+rixin.methods
